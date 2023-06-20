@@ -1,0 +1,12 @@
+Hi Scarlett,
+
+I'm writing to you about the recent network outages we've been experiencing. I've been doing some digging, and I think I've found the source of the problem.
+
+It looks like there's a bug in the code that's responsible for routing traffic between our different servers. I'm working on a fix now, and I should have it deployed by the end of the day.
+
+In the meantime, I'd recommend that you avoid using any non-essential network resources. This will help to reduce the load on the system and prevent further outages.
+
+I'll keep you updated on my progress. If you have any questions, please don't hesitate to reach out.
+
+Thanks,
+Lennon

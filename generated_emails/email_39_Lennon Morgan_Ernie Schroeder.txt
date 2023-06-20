@@ -1,8 +1,0 @@
-Hey Ernie,
-
-I've been looking at the recent spike in login failures, and I think it might be due to a DDoS attack. I've already started monitoring the traffic and I'm working on a plan to mitigate the attack. I'll keep you updated on my progress.
-
-In the meantime, if you have any questions, please don't hesitate to reach out.
-
-Thanks,
-Lennon

@@ -1,0 +1,18 @@
+Hi Ernie,
+
+I'm Lennon, the network admin here at Spintendo Gizzard. I'm writing to you today to discuss the recent increase in DDoS attacks on our servers.
+
+As you know, DDoS attacks are a serious threat to our business. They can disrupt our services, damage our reputation, and cost us money.
+
+I've been working with our security team to investigate these attacks, and we've identified a few potential vulnerabilities that we need to address.
+
+I'm confident that we can fix these vulnerabilities and protect our servers from future attacks. However, I need your help to make sure that our developers are aware of the risks and are taking steps to protect their code.
+
+I'm planning to send out a security awareness email to all of our developers, but I wanted to reach out to you directly first to get your input.
+
+Do you have any suggestions for how we can make our developers more aware of the risks of DDoS attacks?
+
+I'm also open to suggestions for ways to improve our security measures.
+
+Thanks for your time,
+Lennon

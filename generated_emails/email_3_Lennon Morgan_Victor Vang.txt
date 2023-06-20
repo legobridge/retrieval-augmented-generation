@@ -1,0 +1,12 @@
+Hi Victor,
+
+I'm writing to you about the recent security breach that we experienced. I've been working with our team to investigate the issue, and I wanted to give you an update on what we've found so far.
+
+We believe that the breach was caused by a vulnerability in our firewall. We've since patched the vulnerability, and we're confident that our systems are now secure.
+
+However, we're still investigating how the attacker was able to gain access to our network in the first place. We're working with our security team to identify any other potential vulnerabilities, and we'll be taking steps to address them.
+
+I'll keep you updated on our progress. In the meantime, if you have any questions, please don't hesitate to reach out.
+
+Thanks,
+Lennon

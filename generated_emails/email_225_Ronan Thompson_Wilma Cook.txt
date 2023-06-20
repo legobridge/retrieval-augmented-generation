@@ -1,0 +1,12 @@
+Hi Wilma,
+
+I'm writing to you today to discuss the progress on the new game engine. As you know, we're on track to meet our deadline for the alpha release, but I wanted to run a few things by you before we move forward.
+
+First, I'm concerned about the memory usage of the engine. We're currently using a lot more memory than we anticipated, and I'm not sure if we're going to be able to reduce it enough to meet our performance goals. I've been working with the team to try to find ways to reduce memory usage, but so far we haven't had much luck.
+
+Second, I'm worried about the performance of the engine on mobile devices. We've been testing the engine on a variety of devices, and we're seeing some significant performance issues on some of the older devices. I'm not sure if we're going to be able to fix these issues in time for the alpha release, but I'm working with the team to try to come up with a solution.
+
+I'm confident that we can address these issues, but I wanted to give you a heads up before we move forward. I'll keep you updated on our progress, and I'll let you know as soon as I have more information.
+
+Thanks,
+Ronan

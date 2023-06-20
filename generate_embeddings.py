@@ -23,7 +23,9 @@ def main(palm_key):
     model = models[0]
 
     chroma_client = chromadb.Client(Settings(chroma_db_impl='duckdb+parquet', persist_directory='chroma_db'))
-    collection = chroma_client.create_collection(name="email_vector_db")
+    db_name = "email_vector_db"
+    chroma_client.delete_collection(name=db_name)
+    collection = chroma_client.create_collection(name=db_name)
 
     emails = []
     embeddings = []

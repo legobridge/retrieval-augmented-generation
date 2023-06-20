@@ -1,0 +1,14 @@
+Hi Ronan,
+
+I hope this email finds you well. I'm writing to you today to discuss the recent security breach that we've been investigating. As you know, we were recently hacked and a significant amount of data was stolen.
+
+I've been working with our security team to investigate the breach, and we've been able to identify the source of the attack. It appears that the hackers were able to gain access to our system through a vulnerability in our firewall.
+
+We've since patched the vulnerability and implemented additional security measures to prevent future attacks. However, I'm concerned that the hackers may have been able to access some of our sensitive data, such as customer credit card numbers.
+
+I'm working with our legal team to determine the next steps. We'll need to notify our customers of the breach and offer them credit monitoring services. We may also need to file a report with the FTC.
+
+I'm not sure what the legal ramifications of this breach will be, but I'm confident that we'll be able to handle them. In the meantime, I'm asking you to please keep this matter confidential. We don't want to create any unnecessary panic among our customers.
+
+Thanks,
+Lennon

@@ -1,0 +1,12 @@
+Hi Jade,
+
+I'm writing to you about the recent network outages we've been experiencing. I've been investigating the issue, and I believe I've found the source of the problem.
+
+It looks like the issue is with our DNS servers. I've been working on a fix, and I'm hoping to have it implemented by the end of the week.
+
+In the meantime, I've put in place some temporary measures to help mitigate the impact of the outages. I've created a list of IP addresses that can be used to access our internal resources. I've also set up a VPN that employees can use to connect to our network securely.
+
+I'll keep you updated on my progress. If you have any questions, please don't hesitate to reach out.
+
+Thanks,
+Lennon

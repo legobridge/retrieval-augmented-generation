@@ -1,0 +1,12 @@
+Hi Victor,
+
+I'm writing to you about the recent network outages we've been experiencing. I've been investigating the issue, and I believe I've found the source.
+
+It looks like the problem is with the new load balancer that we installed last week. The load balancer is responsible for distributing traffic across our servers, and it seems like it's been causing some problems with our DNS records.
+
+I've already put in a fix for the issue, and I'm confident that it will resolve the outages. I'll keep you updated on the progress.
+
+In the meantime, if you have any questions, please don't hesitate to reach out.
+
+Thanks,
+Lennon

@@ -1,0 +1,10 @@
+Hey Lennon,
+
+I hope this email finds you well. I'm writing to you today to discuss the recent network outages we've been experiencing. As you know, these outages have been causing a lot of problems for our developers and QA testers, and it's important that we get them resolved as soon as possible.
+
+I've been looking into the issue, and I think it's likely that the problem is with our DNS servers. I've already started working on a fix, but I wanted to get your input as well. Do you have any thoughts on what might be causing the problem? And do you have any suggestions for how to fix it?
+
+I'm hoping we can get this resolved quickly so that our developers can get back to work. Let me know what you think.
+
+Thanks,
+Ernie

@@ -1,0 +1,12 @@
+Hi Nikhil,
+
+I'm writing to you about the recent network outages we've been experiencing. I've been doing some digging, and I think I've found the source of the problem.
+
+It looks like there's a bug in the code for our load balancer. The load balancer is responsible for distributing traffic evenly across our servers, but the bug is causing it to send too much traffic to one particular server. This is overloading the server and causing it to crash.
+
+I've already fixed the bug, and I'm in the process of deploying a new version of the load balancer. I expect that this will resolve the issue.
+
+I'll keep you updated on my progress. In the meantime, if you have any questions, please don't hesitate to reach out.
+
+Thanks,
+Lennon

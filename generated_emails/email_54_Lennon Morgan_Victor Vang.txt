@@ -1,0 +1,12 @@
+Hi Victor,
+
+I'm writing to you today to discuss the recent increase in network traffic. I've noticed that our bandwidth has been maxed out at peak times, and this is causing some of our applications to slow down.
+
+I've done some digging, and I think the problem is that we're not using our resources efficiently. We have a lot of unused bandwidth during off-peak hours, and we're also paying for more bandwidth than we actually need.
+
+I'd like to propose a few changes to our network configuration that I think will help to reduce our costs and improve performance. I've attached a proposal that outlines my suggestions.
+
+I'd love to discuss this with you further and get your feedback. Please let me know if you're available for a meeting next week.
+
+Thanks,
+Lennon

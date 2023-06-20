@@ -1,0 +1,12 @@
+Hi Lennon,
+
+I'm writing to you about the new networking infrastructure that we're planning to implement. I'd like to get your input on the design and implementation, since you're the network administrator.
+
+I'm thinking that we should use a distributed architecture, with a mesh of routers and switches. This would give us the most flexibility and scalability.
+
+I'm also considering using a cloud-based solution for our DNS and DHCP services. This would make it easier to manage and update our DNS records, and it would also provide us with a more reliable DHCP service.
+
+I'd like to schedule a meeting with you to discuss these ideas in more detail. Can you make yourself available sometime next week?
+
+Thanks,
+Scarlett

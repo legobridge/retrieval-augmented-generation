@@ -1,0 +1,14 @@
+Hi Hector,
+
+I'm writing to you about the recent DDoS attack that took down our servers. I've been working with our security team to investigate the attack and identify the source.
+
+So far, we've been able to determine that the attack was launched from a botnet of compromised devices. The attackers used a variety of techniques to exploit vulnerabilities in our systems, including SQL injection, cross-site scripting, and brute force attacks.
+
+We're still working to patch the vulnerabilities that were exploited, but we've already taken steps to improve our security posture. We've implemented a new firewall, updated our security software, and increased our monitoring capabilities.
+
+I'm confident that these measures will help to protect us from future attacks. However, I'd like to discuss with you the possibility of implementing a more comprehensive security solution. I think this would give us the best possible protection against future attacks.
+
+I'm available to meet with you at your convenience to discuss this further. Please let me know if you have any questions.
+
+Thanks,
+Lennon

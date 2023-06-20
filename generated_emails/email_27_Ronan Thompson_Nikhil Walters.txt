@@ -1,0 +1,8 @@
+Hi Nikhil,
+
+I'm writing to you about the new bug that was reported in the latest build of our game. I've been able to reproduce the bug and I think I have a fix for it. I'm going to start working on the fix now and I'll let you know as soon as I'm finished.
+
+In the meantime, if you have any questions, please don't hesitate to reach out.
+
+Thanks,
+Ronan

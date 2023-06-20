@@ -1,0 +1,6 @@
+Hey Lennon,
+
+I'm reaching out because I'm having some trouble with the new network setup. I think the DNS server is misconfigured, and it's causing some of our games to be inaccessible. Can you take a look and see if you can fix it?
+
+Thanks,
+Ernie

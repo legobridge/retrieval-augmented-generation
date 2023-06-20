@@ -4,9 +4,14 @@ import sys
 import time
 
 import google.generativeai as palm
-import pandas as pd
 import numpy as np
+import pandas as pd
+from google.generativeai.types import SafetySettingDict, HarmCategory, HarmBlockThreshold
 from tqdm import tqdm
+
+SAFETY_SETTINGS = [
+    SafetySettingDict(category=hc, threshold=HarmBlockThreshold.BLOCK_NONE) for hc in HarmCategory
+]
 
 
 def generate_email(model, employee_list, sender, recipient, include_scandal):
@@ -27,7 +32,8 @@ The email can have informal sentences but should not be unprofessional."""
         email_text = palm.generate_text(
             model=model,
             prompt=prompt,
-            temperature=0.6
+            temperature=0.6,
+            safety_settings=SAFETY_SETTINGS
         )
         return email_text.result
     except:
@@ -42,9 +48,9 @@ def main(palm_key):
     model = models[0].name
 
     employee_df = pd.read_csv('employees.csv')
-    employee_list = '\n'.join([f"{row[0]} [{row[1]}]" for _, row in employee_df.iterrows()])
+    employee_list = '\n'.join([f"- {row[0]} [{row[1]}]" for _, row in employee_df.iterrows()])
     employee_df = employee_df.set_index('Name')
-    EMAILS_TO_GENERATE = 150
+    EMAILS_TO_GENERATE = 300
     HOT_DOC_RATE = 0.03
     for i in tqdm(range(EMAILS_TO_GENERATE)):
         sender, recipient = np.random.choice(employee_df.index.values, size=2, replace=False)

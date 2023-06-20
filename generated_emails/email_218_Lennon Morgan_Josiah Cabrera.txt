@@ -1,0 +1,10 @@
+Hi Josiah,
+
+I'm Lennon, the Network Administrator here at Spintendo Gizzard. I'm reaching out to you because I noticed that the website is down. I've checked the logs and it looks like there was a power outage this morning that caused the server to crash.
+
+I'm currently working on getting the server back up and running, but I wanted to give you a heads up so you can let the rest of the team know. I'll update you as soon as I have more information.
+
+In the meantime, if you have any questions, please don't hesitate to reach out.
+
+Thanks,
+Lennon

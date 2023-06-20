@@ -1,0 +1,14 @@
+Hi Keenan,
+
+I'm writing to you about the recent increase in DDoS attacks on our servers. I've been working with our security team to investigate the attacks, and we believe that they're being carried out by a rival company.
+
+I'm concerned that these attacks could damage our reputation and our ability to provide our customers with a reliable service. I'm recommending that we take the following steps to mitigate the risk of future attacks:
+
+* Increase the security of our servers.
+* Implement a DDoS mitigation service.
+* Work with law enforcement to track down the attackers.
+
+I've attached a report with more details about the attacks. I'd like to discuss this with you further at your earliest convenience.
+
+Thanks,
+Lennon

@@ -1,0 +1,16 @@
+Hey Ernie,
+
+I'm Ronan, the lead software engineer here at Spintendo Gizzard. I'm reaching out because I'm having some trouble with the new build of the game engine. I think there's a bug in the physics simulation that's causing the characters to glitch out.
+
+I've been working on debugging it for a few days now, but I can't seem to find the issue. I was hoping you could take a look and see if you can spot anything I'm missing.
+
+The build is located in the following directory:
+
+/home/ronan/projects/spintendo-gizzard/engine/build/
+
+The bug is most noticeable when you're playing the game in first-person mode. The characters will sometimes start to jitter and teleport around.
+
+I'd appreciate it if you could take a look and let me know what you think.
+
+Thanks,
+Ronan

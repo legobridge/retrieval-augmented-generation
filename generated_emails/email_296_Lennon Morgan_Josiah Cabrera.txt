@@ -1,0 +1,12 @@
+Hi Josiah,
+
+I'm writing to you about the recent DDoS attack that took down our website. I've been working with our security team to investigate the attack and identify ways to prevent it from happening again.
+
+We've identified a few vulnerabilities that were exploited by the attackers, and we're working to fix them. We're also implementing a new security system that will help us to better protect our website from future attacks.
+
+I'll keep you updated on our progress, and I'll let you know as soon as the website is back up and running.
+
+In the meantime, if you have any questions, please don't hesitate to contact me.
+
+Thanks,
+Lennon

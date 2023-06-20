@@ -1,0 +1,10 @@
+Hi Scarlett,
+
+I hope this email finds you well. I'm writing to you today to follow up on our conversation last week about the network outage. I've been doing some digging, and I think I've found the source of the problem.
+
+It looks like there was a misconfiguration in the DNS server that was causing traffic to be routed incorrectly. I've already made the necessary changes, and I'm confident that this will resolve the issue.
+
+I'll be monitoring the situation closely, and I'll let you know if I see any further problems. In the meantime, if you have any questions, please don't hesitate to reach out.
+
+Thanks,
+Lennon

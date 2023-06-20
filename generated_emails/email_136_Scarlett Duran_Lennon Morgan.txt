@@ -1,0 +1,14 @@
+Hi Lennon,
+
+I hope this email finds you well.
+
+I'm writing to you today to discuss the upcoming release of our new game, "Splatty's Adventure." As you know, I'm the lead game designer on this project, and I'm responsible for ensuring that the game is fun and engaging for players.
+
+I'm reaching out to you because I need your help with the game's network infrastructure. I'm specifically concerned about the ability of players to connect to each other and play cooperatively.
+
+I'm wondering if you could take a look at the game's network code and make sure that it's up to snuff. I'm also wondering if you could recommend any additional measures that we can take to ensure that players have a smooth and enjoyable experience.
+
+I know that you're busy, but I would really appreciate your help with this. We're on a tight deadline, so if you could get back to me as soon as possible, that would be great.
+
+Thanks,
+Scarlett

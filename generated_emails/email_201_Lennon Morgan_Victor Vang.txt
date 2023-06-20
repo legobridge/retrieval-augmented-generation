@@ -1,0 +1,8 @@
+Hi Victor,
+
+I'm writing to you about the recent increase in network outages. I've been investigating the issue, and I believe it's due to a recent change we made to the DNS server. I've reverted the change, and I'm monitoring the network to see if the outages stop.
+
+I'll keep you updated on my progress. In the meantime, if you have any questions, please don't hesitate to reach out.
+
+Thanks,
+Lennon

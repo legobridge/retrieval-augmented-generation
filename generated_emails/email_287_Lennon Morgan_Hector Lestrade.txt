@@ -1,0 +1,10 @@
+Hi Hector,
+
+I'm writing to you about the recent DDoS attack that took down our website. I've been working with our security team to investigate the attack and identify any vulnerabilities that may have been exploited.
+
+So far, we've identified a few areas that need to be addressed. We're going to implement a more robust firewall, upgrade our security software, and improve our monitoring system. We're also going to work with our developers to make sure that our website is more resistant to future attacks.
+
+I'll keep you updated on our progress. In the meantime, if you have any questions, please don't hesitate to reach out.
+
+Thanks,
+Lennon

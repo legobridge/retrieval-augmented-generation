@@ -1,0 +1,14 @@
+Hi Jade,
+
+I'm writing to you today to discuss the progress of the new game engine. As you know, we're on track to meet our deadline, but I wanted to get your thoughts on a few things.
+
+First, I'm wondering if we should add support for VR. I know it's a hot topic right now, and I think it could be a great way to differentiate our game from the competition. However, it would also add a lot of complexity to the development process, so I wanted to get your input before we make a decision.
+
+Second, I'm thinking about adding a new physics engine. The current one is fine, but I think it could be improved. I've been looking at a few different options, and I'm leaning towards using the PhysX engine from Nvidia. Do you have any thoughts on this?
+
+Finally, I wanted to get your feedback on the overall design of the game engine. Do you think it's meeting your expectations? Are there any areas that you think could be improved?
+
+I'm open to any suggestions you have. We're still in the early stages of development, so there's plenty of time to make changes.
+
+Thanks,
+Ronan

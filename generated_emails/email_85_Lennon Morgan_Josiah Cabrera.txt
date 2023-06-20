@@ -1,0 +1,8 @@
+Hi Josiah,
+
+I'm Lennon, the network administrator here at Spintendo Gizzard. I'm reaching out because I noticed that our website is having some trouble loading. I've checked the logs and it looks like there's a problem with the DNS server. I'm working on a fix now, but I wanted to give you a heads up in case you hear any complaints from users.
+
+I'll keep you updated on my progress. In the meantime, if you have any questions, please don't hesitate to reach out.
+
+Thanks,
+Lennon

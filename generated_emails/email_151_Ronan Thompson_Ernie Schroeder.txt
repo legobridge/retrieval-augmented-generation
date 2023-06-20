@@ -1,0 +1,20 @@
+Ronan Thompson
+Lead Software Engineer
+Spintendo Gizzard
+
+Ernie Schroeder
+Product Manager
+Spintendo Gizzard
+
+Subject: New feature proposal for the upcoming game
+
+Hey Ernie,
+
+I'm writing to you today to propose a new feature for the upcoming game. I think this feature would be a great addition, and it would make the game more fun and engaging for players.
+
+The feature I'm proposing is a new type of enemy that players can encounter. These enemies would be more challenging than the current enemies, and they would require players to use different strategies to defeat them. I think this would add a new level of difficulty to the game, and it would make it more rewarding for players who are able to defeat the enemies.
+
+I've attached a design document that outlines the new enemy type in more detail. I'd love to get your thoughts on the proposal, and I'm happy to answer any questions you have.
+
+Thanks,
+Ronan

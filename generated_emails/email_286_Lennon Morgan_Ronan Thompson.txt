@@ -1,0 +1,10 @@
+Hi Ronan,
+
+I wanted to check in about the status of the new networking infrastructure. I know you're working on it with Damon, and I'm just curious to know when you think it'll be ready to go live.
+
+We're starting to get a lot of requests from our developers to start testing it out, so I just want to make sure we're on track.
+
+Let me know what you think.
+
+Thanks,
+Lennon

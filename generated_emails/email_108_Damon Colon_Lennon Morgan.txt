@@ -1,16 +1,10 @@
 Hey Lennon,
 
-I hope this email finds you well. I'm writing to you today to discuss the upcoming release of our new game, "Splatty McBlotch." As you know, I'm the Head of Art here at Spintendo Gizzard, and I'm responsible for overseeing the development of all of our games' visual assets.
+I'm Damon Colon, the Head of Art here at Spintendo Gizzard. I'm reaching out because I'm having some trouble with our new graphics card drivers. I've tried everything I can think of, but I can't seem to get them to work properly.
 
-I'm reaching out because I'm concerned about the network performance of "Splatty McBlotch." I've been testing the game on a variety of different devices and networks, and I've noticed that there are some significant performance issues when playing the game online.
+I'm wondering if you could take a look at it for me? I'm not sure if it's a driver issue or a hardware issue, but I'm hoping you can help me narrow it down.
 
-For example, when I'm playing the game on my phone over Wi-Fi, I experience frequent lag and stuttering. When I'm playing the game on my laptop over Ethernet, the performance is much better, but I still experience some occasional lag.
+I'm available all day today if you want to come by my office. Otherwise, we can schedule a time to meet later this week.
 
-I'm concerned that these performance issues will negatively impact the player experience. I'm confident that we can fix these issues, but I need your help.
-
-I'm asking you to run some performance tests on "Splatty McBlotch" and to identify the source of the performance issues. I'm also asking you to come up with a plan to fix these issues.
-
-I know that you're busy, but I believe that this is a critical issue that needs to be addressed as soon as possible. I'm confident that we can work together to fix these issues and deliver a great gaming experience to our players.
-
-Thanks,
+Thanks for your help,
 Damon

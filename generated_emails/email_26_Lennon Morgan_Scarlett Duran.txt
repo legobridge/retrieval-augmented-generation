@@ -1,0 +1,10 @@
+Hi Scarlett,
+
+I'm Lennon, the network admin here at Spintendo Gizzard. I'm writing to you because I noticed that there's been a recent increase in DDoS attacks on our servers. I'm concerned that this could impact the stability of our games, and I wanted to see what we can do to mitigate the risk.
+
+I've done some research, and it looks like there are a few things we can do to improve our security. First, we can implement a DDoS mitigation service. This will help to protect our servers from being flooded with traffic, which can make them inaccessible to legitimate users. Second, we can update our firewalls to block malicious traffic. Third, we can implement rate limiting to prevent attackers from sending too much traffic to our servers.
+
+I've created a proposal that outlines these recommendations in more detail. I'd like to schedule a time to discuss this with you and get your feedback.
+
+Thanks,
+Lennon

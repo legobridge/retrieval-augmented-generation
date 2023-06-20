@@ -1,0 +1,10 @@
+Hi Scarlett,
+
+I'm Lennon, the Network Administrator here at Spintendo Gizzard. I'm reaching out to you because I'm having some trouble with the new game design software that you just installed on our servers.
+
+When I try to access the software, I get an error message that says "The software cannot be found." I've tried restarting my computer and reinstalling the software, but the problem persists.
+
+I'm not sure if this is a problem with the software itself or with our servers, so I wanted to reach out to you to see if you have any ideas.
+
+Thanks,
+Lennon

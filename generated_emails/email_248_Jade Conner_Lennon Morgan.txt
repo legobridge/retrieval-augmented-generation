@@ -1,0 +1,10 @@
+Hi Lennon,
+
+Hope you're doing well. I'm writing to you today to discuss the recent spike in DDoS attacks that we've been experiencing. As you know, these attacks have been causing a significant disruption to our game servers, and we need to take action to mitigate the damage.
+
+I've been doing some research on the best ways to defend against DDoS attacks, and I think that we should implement a few new security measures. First, we should upgrade our firewall to a more robust solution that can better withstand attack. Second, we should implement a DDoS scrubbing service that can filter out malicious traffic before it reaches our servers. Finally, we should educate our employees on how to identify and report DDoS attacks.
+
+I've attached a proposal that outlines these security measures in more detail. I'd like to schedule a meeting with you to discuss this proposal and get your feedback. Please let me know when you're available.
+
+Thanks,
+Jade

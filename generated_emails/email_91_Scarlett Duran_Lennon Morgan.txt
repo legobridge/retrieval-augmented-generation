@@ -1,0 +1,12 @@
+Hi Lennon,
+
+I hope this email finds you well.
+
+I'm writing to you today to discuss the upcoming release of our new game, "Splatty's Adventure." As you know, we're planning to launch the game on a variety of platforms, including PC, consoles, and mobile devices.
+
+I'm concerned about the security of our network, and I'm wondering if you could take a look at it and make sure that it's up to snuff. I'm particularly worried about the possibility of DDoS attacks, as well as other forms of malicious activity.
+
+I know that you're busy, but I would really appreciate it if you could take a look at this for me. We need to make sure that our network is secure before we launch the game, or we could be in for a lot of trouble.
+
+Thanks,
+Scarlett

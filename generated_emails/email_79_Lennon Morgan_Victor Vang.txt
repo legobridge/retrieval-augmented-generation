@@ -1,0 +1,10 @@
+Hi Victor,
+
+I'm writing to you today to discuss the possibility of adding a new security measure to our network. I've been doing some research, and I think that a VPN would be a great way to improve our security and protect our data.
+
+A VPN would create a secure tunnel between our employees' devices and our servers. This would make it much more difficult for hackers to access our data, even if they were able to get into our network.
+
+I've attached a proposal that outlines the benefits of a VPN and how it would work. I'd love to discuss this further with you and get your thoughts.
+
+Thanks,
+Lennon

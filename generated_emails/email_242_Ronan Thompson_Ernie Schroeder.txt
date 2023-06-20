@@ -1,0 +1,10 @@
+Hey Ernie,
+
+I'm reaching out to you because I'm having some trouble with the new build of the game. I'm getting a few errors when I try to run it on my local machine, and I'm not sure what's causing them.
+
+I've attached the log files to this email, so you can take a look at them. If you have any ideas on what might be causing the problem, I'd love to hear them.
+
+I'm also available to hop on a call if you want to discuss this further. Just let me know what works best for you.
+
+Thanks,
+Ronan

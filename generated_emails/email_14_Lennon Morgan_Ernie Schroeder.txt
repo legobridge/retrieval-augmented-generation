@@ -1,0 +1,8 @@
+Hey Ernie,
+
+I'm Lennon, the network admin here at Spintendo Gizzard. I'm reaching out to you because I noticed that there's been a recent increase in DDoS attacks on our servers. I'm working on a plan to mitigate these attacks, but I wanted to get your thoughts on the matter first.
+
+Do you have any experience with DDoS attacks? If so, what measures have you taken to mitigate them? I'm also open to any suggestions you might have.
+
+Thanks,
+Lennon

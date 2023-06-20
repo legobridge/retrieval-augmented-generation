@@ -1,0 +1,12 @@
+Hey Ernie,
+
+I'm writing to you about the new game engine we're developing. I wanted to get your thoughts on the current progress and see if you have any suggestions for how we can improve it.
+
+I know you're busy, so I'll keep it brief. We're making good progress on the engine, but I think we could do a better job of making it modular. This would make it easier to add new features and to maintain the code.
+
+I'm also concerned about the performance of the engine. We're using a lot of high-level abstractions, which is making it difficult to optimize. I think we need to find a way to reduce the number of abstractions without sacrificing the readability of the code.
+
+I'd love to hear your thoughts on these issues. If you have any suggestions, please let me know.
+
+Thanks,
+Nikhil
