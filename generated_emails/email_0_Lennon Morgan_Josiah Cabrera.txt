@@ -1,0 +1,10 @@
+Hi Josiah,
+
+I'm writing to you about the recent increase in DDoS attacks on our servers. I've been working with our security team to investigate the issue, and we believe that the attacks are being carried out by a botnet.
+
+We're taking steps to mitigate the attacks, but I wanted to let you know in case you see any unusual activity on our marketing channels. We're also working on a plan to prevent future attacks, and I'll keep you updated on our progress.
+
+In the meantime, if you have any questions or concerns, please don't hesitate to reach out.
+
+Thanks,
+Lennon

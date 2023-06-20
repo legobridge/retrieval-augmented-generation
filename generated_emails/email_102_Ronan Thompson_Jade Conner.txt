@@ -1,0 +1,10 @@
+Hi Jade,
+
+I'm writing to you about the upcoming release of our new game, Splatty McSplat. I'm concerned that we're not going to have enough servers to handle the initial influx of players, and I'd like to get your thoughts on how to address this.
+
+I'm thinking that we could either rent more servers from a cloud provider, or we could build our own dedicated servers. I've done some research, and it looks like the cost of renting servers from a cloud provider would be about $10,000 per month. Building our own servers would be more expensive, but it would give us more control over the hardware and software.
+
+I'm not sure which option is better, so I'd like to get your input. What do you think we should do?
+
+Thanks,
+Ronan

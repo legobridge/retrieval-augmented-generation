@@ -1,0 +1,12 @@
+Hi Jade,
+
+I'm writing to you today to discuss the recent increase in network traffic. As you know, we've been experiencing some latency issues, and I think I've identified the source of the problem.
+
+I've been monitoring our network traffic, and I've noticed that a large number of requests are coming from a single IP address. These requests are all for the same file, and they're causing a bottleneck on our network.
+
+I'm not sure what's causing this, but I think it might be a bot. I've already blocked the IP address, but I wanted to let you know in case it happens again.
+
+I'll keep an eye on the network traffic, and I'll let you know if I see anything else unusual.
+
+Thanks,
+Lennon

@@ -1,0 +1,10 @@
+Hey Damon,
+
+I'm Lennon, the Network Administrator here at Spintendo Gizzard. I'm reaching out because I'm having some trouble with the new art assets that were uploaded to the server yesterday. The files are too large, and they're causing some performance issues.
+
+I'm not sure if you were the one who uploaded the files, but I wanted to check in with you and see if you could help me troubleshoot this. I'm thinking that we might need to compress the files or find a way to store them on a different server.
+
+Let me know what you think. I'm available to chat anytime today.
+
+Thanks,
+Lennon

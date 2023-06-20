@@ -11,13 +11,14 @@ from tqdm import tqdm
 
 def generate_email(model, employee_list, sender, recipient, include_scandal):
     prompt = f"""\
-Spintendo is a game development company. The following people work at Spintendo:
+Spintendo Gizzard is a game development company. The following people work at Spintendo Gizzard:
 
 {employee_list}
 
 Write an email from {sender} to {recipient}.
-Make sure that the email is relevant to their position at the company, \
-and the tone is appropriate for their relationship and seniority."""
+Make sure that the email is relevant to their role and responsibilities at the company, \
+and the tone is appropriate for their relationship and seniority to the recipient.
+The email can have informal sentences but should not be unprofessional."""
 
     if include_scandal:
         prompt += f" Add a subtle but legally incriminating secret in the email, \
@@ -43,19 +44,19 @@ def main(palm_key):
     employee_df = pd.read_csv('employees.csv')
     employee_list = '\n'.join([f"{row[0]} [{row[1]}]" for _, row in employee_df.iterrows()])
     employee_df = employee_df.set_index('Name')
-    EMAILS_TO_GENERATE = 50
-    HOT_DOC_RATE = 0.01
+    EMAILS_TO_GENERATE = 150
+    HOT_DOC_RATE = 0.03
     for i in tqdm(range(EMAILS_TO_GENERATE)):
         sender, recipient = np.random.choice(employee_df.index.values, size=2, replace=False)
         include_scandal = False
+        hot = ''
         if np.random.rand() < HOT_DOC_RATE:
             include_scandal = True
+            hot = 'hot_'
 
         generated_email = generate_email(model, employee_list, sender, recipient, include_scandal)
-        time.sleep(2)
-        hot = ''
-        if include_scandal:
-            hot = 'hot_'
+        time.sleep(2)  # To avoid being rate-limited
+
         filename = f'{hot}email_{i}_{sender}_{recipient}'
         with open(f'generated_emails/{filename}.txt', 'w') as f:
             f.write(generated_email)

@@ -1,0 +1,12 @@
+Hi Wilma,
+
+I'm writing to you today to discuss the recent increase in network traffic. As you know, we've been experiencing some slowdowns on our internal systems, and I think I've identified the cause.
+
+I've been monitoring our network traffic for the past few weeks, and I've noticed that there's been a significant increase in traffic from a new IP address. This IP address is associated with a botnet, which is a network of computers that are controlled by a single malicious actor.
+
+The botnet is using our network to mine cryptocurrency, which is a process that uses a lot of computing power. This is what's causing the slowdowns that we've been seeing.
+
+I've already taken steps to block the botnet from our network, but I wanted to let you know in case you have any questions.
+
+Thanks,
+Lennon

@@ -1,0 +1,10 @@
+Hey Lennon,
+
+I'm writing to you about the recent network outages we've been experiencing. I've been looking into the issue, and I think it might be related to the new firewall that was installed last week. Can you take a look at the logs and see if you can spot anything that might be causing the problem?
+
+I'm also wondering if we should consider rolling back the firewall to the previous version. I know that was a pain to set up, but it might be worth it if it means we can get the network back up and running smoothly.
+
+Let me know what you think.
+
+Thanks,
+Ronan

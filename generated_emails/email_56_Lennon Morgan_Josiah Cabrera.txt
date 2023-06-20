@@ -1,0 +1,18 @@
+Hi Josiah,
+
+I'm writing to you about the recent increase in DDoS attacks on our servers. I've been working with our security team to investigate the attacks and develop a plan to mitigate them.
+
+We've identified a few potential causes for the attacks, including:
+
+* A vulnerability in our web application that allows attackers to exploit a buffer overflow
+* A misconfiguration in our firewall that allows attackers to bypass our security measures
+* A botnet that is scanning the internet for vulnerable servers
+
+We're currently working to fix these vulnerabilities and implement new security measures to protect our servers from future attacks.
+
+I'll keep you updated on our progress and let you know when we're confident that our servers are secure.
+
+In the meantime, if you have any questions or concerns, please don't hesitate to reach out.
+
+Thanks,
+Lennon

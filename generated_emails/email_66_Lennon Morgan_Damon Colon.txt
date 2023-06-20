@@ -1,0 +1,10 @@
+Hi Damon,
+
+I'm writing to you about the recent issue we've been having with our network. As you know, we've been experiencing some intermittent outages that have been causing problems for our employees. I've been working on the issue for the past few days, and I think I've finally identified the source of the problem.
+
+It looks like the issue is with our DNS server. I've been doing some research, and I think I've found a way to fix it. I'm going to need your help to implement the fix, though.
+
+Can you meet with me tomorrow morning at 10am to discuss this further? I'll be in my office.
+
+Thanks,
+Lennon

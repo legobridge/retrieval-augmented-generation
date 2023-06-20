@@ -1,0 +1,10 @@
+Hi Lennon,
+
+I wanted to reach out and see how things are going with the new network infrastructure. I know you've been working hard on it, and I'm curious to hear how it's going.
+
+I'm particularly interested in how the new load balancer is performing. We've been having some issues with our website crashing under heavy load, and I'm hoping the new load balancer will help to resolve that.
+
+Let me know if you have any time to chat this week. I'm free on Monday and Wednesday afternoons.
+
+Thanks,
+Nikhil

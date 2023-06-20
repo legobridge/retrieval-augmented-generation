@@ -1,0 +1,12 @@
+Hi Ronan,
+
+I'm Lennon, the network admin here at Spintendo Gizzard. I'm writing to you today because I'm seeing some strange traffic on our network. I'm not sure if it's anything to worry about, but I thought I'd flag it for you just in case.
+
+The traffic is coming from a few different IP addresses, and it's all going to a server that we don't recognize. I've checked the logs, and it looks like this traffic has been going on for a few days now.
+
+I'm not sure what this traffic is for, but I'm a little concerned that it might be malicious. I've already blocked the IP addresses from accessing our network, but I wanted to let you know in case you want to take any further action.
+
+Let me know if you have any questions.
+
+Thanks,
+Lennon

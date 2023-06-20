@@ -1,0 +1,10 @@
+Hi Keenan,
+
+I'm writing to you about the upcoming release of our new game, Splatty McSplat. As you know, this is a big release for us, and we're expecting a lot of traffic to our website. I'm concerned that our current account management system won't be able to handle the load, and I'm wondering if you have any ideas about how we can improve it.
+
+I'm thinking that we might need to add more servers or upgrade our existing ones. We could also look into using a cloud-based solution. I'm not sure what the best option is, so I'd love to hear your thoughts.
+
+Can you give me a call sometime this week so we can discuss this further? I'm available on Tuesday and Wednesday from 10am to 2pm.
+
+Thanks,
+Ernie
