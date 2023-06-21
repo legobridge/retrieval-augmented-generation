@@ -1,5 +1,6 @@
 # A major problem right now is Google blocking the queries for some safety reasons.
 import sys
+import time
 
 import chromadb
 import google.generativeai as palm
@@ -13,7 +14,7 @@ SAFETY_SETTINGS = [
 ]
 
 
-def retrieve_documents_from_vector_db(collection, model, query, num_candidates=3):
+def retrieve_documents_from_vector_db(collection, model, query, num_candidates=5):
     query_embedding = generate_embedding(model, query)
     results = collection.query(query_embeddings=[query_embedding], n_results=num_candidates)
     retrieved_documents = results['documents'][0]
@@ -36,22 +37,22 @@ def main(palm_key):
     query = input('Enter your query in the format of the question you want answered.\n')
     retrieved_emails = retrieve_documents_from_vector_db(collection, embedding_model, query)
 
-    retrieved_email_strings = []
-    for i, retrieved_document in enumerate(retrieved_emails):
-        retrieved_email_strings.append(f'- E-Mail #{i + 1}: ```{retrieved_document}```\n')
-
-    retrieved_email_string = '\n'.join(retrieved_email_strings)
     with open('prompt_templates/final_prompt.txt') as f:
         final_prompt_template = f.read()
-        final_prompt = final_prompt_template.format(retrieved_email_string, query)
-        print(final_prompt)
-        response = palm.generate_text(
-            model=text_model,
-            prompt=final_prompt,
-            temperature=0,
-            safety_settings=SAFETY_SETTINGS
-        )
-        print(response.candidates[0]['output'])
+        for retrieved_email in retrieved_emails:
+            final_prompt = final_prompt_template.format(retrieved_email, query)
+            response = palm.generate_text(
+                model=text_model,
+                prompt=final_prompt,
+                temperature=0,
+                safety_settings=SAFETY_SETTINGS
+            )
+            time.sleep(2)
+            if len(response.candidates) > 0:
+                print(final_prompt)
+                print(response.candidates[0]['output'])
+            else:
+                print('Prompt blocked by PaLM safety settings')
 
 
 if __name__ == '__main__':
