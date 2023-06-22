@@ -48,11 +48,13 @@ def main(palm_key):
                 safety_settings=SAFETY_SETTINGS
             )
             time.sleep(2)
+            print(final_prompt)
+            print('=======================================================================')
             if len(response.candidates) > 0:
-                print(final_prompt)
                 print(response.candidates[0]['output'])
             else:
                 print('Prompt blocked by PaLM safety settings')
+            print('=======================================================================\n')
 
 
 if __name__ == '__main__':
